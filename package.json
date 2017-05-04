@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "^2.4.4"
+    "mocha": "^3.3.0"
   },
   "dependencies": {
     "gulp-util": "^3.0.7",
